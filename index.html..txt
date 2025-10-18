@@ -1,0 +1,16 @@
+
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>My Name: Temitope TIDOWU</h1>
+    <p>I am a MSc Computer Science student at the University of Suffolk (UoS).</p>
+    <p>My experience at UoS has been amazing. I have learned about DevOps practices including version control, CI/CD pipelines, containerisation, and automated deployment. The labs are practical and helped me understand real-world software development workflows.</p>
+</body>
+</html>
